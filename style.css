@@ -8,7 +8,9 @@
     font-family: "Bebas Neue";
     background-color: rgb(255, 255, 255);
   }
-
+  h2{
+    color:black;
+  }
   .header {
     padding: 60px;
     text-align: center;

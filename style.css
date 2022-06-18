@@ -14,7 +14,7 @@
   .header {
     padding: 60px;
     text-align: center;
-    background: #ba81e6;
+    background-image: url("https://media0.giphy.com/media/smzfl3E7a4iHK/giphy.gif");
     color: white;
     font-size: 30px;
     
@@ -23,7 +23,7 @@
   /* Style the top navigation bar */
   .topnav {
     overflow: hidden;
-    background-color: #8a5cad;
+    background-color: #080808;
     height: 100%;
   }
   
